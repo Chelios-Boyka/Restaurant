@@ -35,7 +35,7 @@ const BookingList = () => {
   return (
     <div className="container">
       <div className="center">
-        <h2 className="text-center text-light">Booking List</h2>
+        <h2 className="text-center text-light">Today Booking List</h2>
         <table className="table table-striped table-bordered">
           <thead>
             <tr>
